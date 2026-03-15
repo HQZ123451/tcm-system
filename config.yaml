@@ -3,7 +3,7 @@ credentials:
     admin:
       email: admin@tcm.com
       name: 管理员
-      password:admin123456 后面自动生成
+      password: 123456
 
 cookie:
   expiry_days: 30
