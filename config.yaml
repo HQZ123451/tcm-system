@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@tcm.com
+      name: 管理员
+      password: $2b$12$xxxxxxxx  # 后面自动生成
+
+cookie:
+  expiry_days: 30
+  key: tcm_system_secret_key
+  name: tcm_session
+
+preauthorized:
+  emails:
+    - admin@tcm.com
